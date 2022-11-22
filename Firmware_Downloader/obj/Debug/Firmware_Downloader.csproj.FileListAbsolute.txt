@@ -1,0 +1,11 @@
+C:\Users\yoojihyeon\source\repos\git_firm_ware_downloader\STM32_Firmware_Downloader\Firmware_Downloader\obj\Debug\Firmware_Downloader.csproj.AssemblyReference.cache
+C:\Users\yoojihyeon\source\repos\git_firm_ware_downloader\STM32_Firmware_Downloader\Firmware_Downloader\obj\Debug\Firmware_Downloader.EraseWaitForm.resources
+C:\Users\yoojihyeon\source\repos\git_firm_ware_downloader\STM32_Firmware_Downloader\Firmware_Downloader\obj\Debug\Firmware_Downloader.Form1.resources
+C:\Users\yoojihyeon\source\repos\git_firm_ware_downloader\STM32_Firmware_Downloader\Firmware_Downloader\obj\Debug\Firmware_Downloader.Properties.Resources.resources
+C:\Users\yoojihyeon\source\repos\git_firm_ware_downloader\STM32_Firmware_Downloader\Firmware_Downloader\obj\Debug\Firmware_Downloader.csproj.GenerateResource.cache
+C:\Users\yoojihyeon\source\repos\git_firm_ware_downloader\STM32_Firmware_Downloader\Firmware_Downloader\obj\Debug\Firmware_Downloader.csproj.CoreCompileInputs.cache
+C:\Users\yoojihyeon\source\repos\git_firm_ware_downloader\STM32_Firmware_Downloader\Firmware_Downloader\bin\Debug\Firmware_Downloader.exe.config
+C:\Users\yoojihyeon\source\repos\git_firm_ware_downloader\STM32_Firmware_Downloader\Firmware_Downloader\bin\Debug\Firmware_Downloader.exe
+C:\Users\yoojihyeon\source\repos\git_firm_ware_downloader\STM32_Firmware_Downloader\Firmware_Downloader\bin\Debug\Firmware_Downloader.pdb
+C:\Users\yoojihyeon\source\repos\git_firm_ware_downloader\STM32_Firmware_Downloader\Firmware_Downloader\obj\Debug\Firmware_Downloader.exe
+C:\Users\yoojihyeon\source\repos\git_firm_ware_downloader\STM32_Firmware_Downloader\Firmware_Downloader\obj\Debug\Firmware_Downloader.pdb
